@@ -1,4 +1,5 @@
+import Program from '../src/program';
 
-test('hello', () => {
-    expect(1).toBe(1);
+test('Program has a main method', () => {
+    expect(Program.main()).toBe(undefined);
 })

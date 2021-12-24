@@ -1,4 +1,4 @@
-export class Program  {
+export default class Program  {
     static main(): void {
         console.log('Hello worlds !!');
     }
