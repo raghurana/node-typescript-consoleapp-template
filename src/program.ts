@@ -1,6 +1,6 @@
 export default class Program  {
     static main(): void {
-        console.log('Hello worlds !!');
+        console.log('Hello world !!');
     }
 }
 
